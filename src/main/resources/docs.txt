@@ -1,0 +1,7 @@
+Kafka consumer lag occurs when consumers process messages slower than producers.
+
+Spring Boot simplifies backend development with auto-configuration.
+
+OAuth 2.0 is used for secure authorization.
+
+Elasticsearch enables fast search over large datasets.
